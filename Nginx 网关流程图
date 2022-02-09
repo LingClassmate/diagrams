@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T07:15:22.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="15.9.4" etag="TjCOqWVKv9AHBPhCbFpa" type="github"><diagram id="L3zsxPT8hYEGVB9RoR8U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-09T07:39:40.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="WDXlqIStIAzO_xfQnKjw" version="15.9.4" type="github">
+  <diagram id="L3zsxPT8hYEGVB9RoR8U" name="第 1 页">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="366" as="sourcePoint" />
+            <mxPoint x="360" y="366" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="345" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="zKxBWkm4CZCmqSOEUKCb-3" target="zKxBWkm4CZCmqSOEUKCb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-3" value="Nginx 网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="355" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-6" value="192.168.101.69" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-7" value="192.168.101.70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="394" as="sourcePoint" />
+            <mxPoint x="360" y="394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-11" value="http://wiki.xxx.net" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#f8cecc;strokeColor=#b85450;rounded=1;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="340" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-12" value="https://app.xxx.net" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="400" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-16" value="http://wiki.xxx.net&lt;br&gt;http://192.168.101.69:8181" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#f8cecc;strokeColor=#b85450;rounded=1;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="295" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" edge="1" parent="1" target="zKxBWkm4CZCmqSOEUKCb-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="405.0000000000001" as="sourcePoint" />
+            <mxPoint x="600" y="370.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKxBWkm4CZCmqSOEUKCb-19" value="https://app.xxx.net&lt;br&gt;https://192.168.101.70" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="430" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
