@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T07:56:31.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Lsigq_sHHnicTOkyGFyk" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T07:59:49.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="pnPg52uKwOQOaa00glU8" version="17.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,6 +17,11 @@
         </mxCell>
         <mxCell id="IsohAddcxLMf7CD_ZpD1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IsohAddcxLMf7CD_ZpD1-4" target="IsohAddcxLMf7CD_ZpD1-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-sNoZCvpjc8bK-1BBlq-12" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;非并行&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IsohAddcxLMf7CD_ZpD1-21">
+          <mxGeometry x="-0.771" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IsohAddcxLMf7CD_ZpD1-4" value="算法1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="225" y="272.5" width="60" height="25" as="geometry" />
