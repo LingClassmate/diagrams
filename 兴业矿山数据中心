@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T07:40:21.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DbPz4Hd2SHvIUXjrxxTf" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T07:43:30.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="IbkWxW1MRn-GIywB1wVf" version="20.2.7" type="github" pages="2">
   <diagram id="gu_1j6TBoto_4-jWIs2o" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="兴业矿山20220901" id="wyhFWKAAumZVUPHM1xn9">
-    <mxGraphModel dx="677" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="fog7wRuy-gSBpGJfFjiO-0" />
         <mxCell id="fog7wRuy-gSBpGJfFjiO-1" parent="fog7wRuy-gSBpGJfFjiO-0" />
@@ -648,6 +648,21 @@
         </mxCell>
         <mxCell id="xl5iBQrQCKz5_zHVwPrR-10" value="链路聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontSize=12;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="1550" y="907.5" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xl5iBQrQCKz5_zHVwPrR-11" value="VLAN10&lt;br&gt;10.18.10.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="1317.5" y="240.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xl5iBQrQCKz5_zHVwPrR-12" value="VLAN30&lt;br&gt;10.18.30.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="1320" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xl5iBQrQCKz5_zHVwPrR-13" value="VLAN20&lt;br&gt;10.18.20.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="308.5" y="731" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xl5iBQrQCKz5_zHVwPrR-14" value="VLAN50&lt;br&gt;10.18.50.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="308.5" y="902.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xl5iBQrQCKz5_zHVwPrR-15" value="VLAN40&lt;br&gt;10.18.40.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="510" y="426.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
