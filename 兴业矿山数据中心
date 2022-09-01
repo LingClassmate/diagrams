@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T06:10:04.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="lJK_dh4mooV46BVIjnYZ" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T06:10:34.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZV2gCcUz1zwQSVcz2qqd" version="20.2.7" type="github" pages="2">
   <diagram id="gu_1j6TBoto_4-jWIs2o" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -665,8 +665,8 @@
             <mxPoint x="1218" y="647.4200000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6y4wKg8LjNw8DWzeBbMR-31" value="超融合集群资源系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
-          <mxGeometry x="1220.5" y="910.5" width="141" height="30" as="geometry" />
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-31" value="虚拟机系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="1250" y="910.5" width="141" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
