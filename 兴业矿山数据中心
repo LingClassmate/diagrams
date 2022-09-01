@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T04:00:50.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="z7zFhvEFBix3XebpOzOl" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T06:09:28.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6gsPnQpjZli1s6GuZJWH" version="20.2.7" type="github" pages="2">
   <diagram id="gu_1j6TBoto_4-jWIs2o" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -323,13 +323,13 @@
             <mxPoint x="1291" y="340.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN6yDBbsrGKsTfY86bAs-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+        <mxCell id="QN6yDBbsrGKsTfY86bAs-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.211;entryY=0.086;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;exitX=0.211;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1" source="fog7wRuy-gSBpGJfFjiO-3" target="fog7wRuy-gSBpGJfFjiO-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="491.5" as="sourcePoint" />
             <mxPoint x="1080" y="265.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN6yDBbsrGKsTfY86bAs-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+        <mxCell id="QN6yDBbsrGKsTfY86bAs-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.571;entryY=0.086;entryDx=0;entryDy=0;strokeWidth=3;entryPerimeter=0;exitX=0.571;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1" source="fog7wRuy-gSBpGJfFjiO-3" target="fog7wRuy-gSBpGJfFjiO-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1217" y="492" as="sourcePoint" />
             <mxPoint x="1217" y="266" as="targetPoint" />
@@ -337,7 +337,7 @@
         </mxCell>
         <mxCell id="QN6yDBbsrGKsTfY86bAs-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="380" as="sourcePoint" />
+            <mxPoint x="940" y="379" as="sourcePoint" />
             <mxPoint x="1079" y="378.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -571,8 +571,8 @@
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-0" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="800" as="sourcePoint" />
-            <mxPoint x="960" y="370.5" as="targetPoint" />
+            <mxPoint x="941" y="800" as="sourcePoint" />
+            <mxPoint x="941" y="370.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-1" value="超融合集群资源系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
@@ -613,7 +613,7 @@
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="962" y="760.5" as="sourcePoint" />
+            <mxPoint x="940" y="760" as="sourcePoint" />
             <mxPoint x="1081" y="759" as="targetPoint" />
           </mxGeometry>
         </mxCell>
