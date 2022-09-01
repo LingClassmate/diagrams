@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T06:58:07.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="f7ASNAFAZD1Qhi6pLxEN" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T06:59:02.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xdIS0GR2wuyzvXYhZRM7" version="20.2.7" type="github" pages="2">
   <diagram id="gu_1j6TBoto_4-jWIs2o" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
             <mxPoint x="449" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fog7wRuy-gSBpGJfFjiO-36" value="互联网用户" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;fontColor=#000000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+        <mxCell id="fog7wRuy-gSBpGJfFjiO-36" value="互联网PC端" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;fontColor=#000000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="98.5" y="383.5" width="53" height="59" as="geometry" />
         </mxCell>
         <mxCell id="fog7wRuy-gSBpGJfFjiO-37" value="兴业矿山超融合网络拓扑图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#007FFF;fontSize=22;fontStyle=1" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
@@ -469,7 +469,7 @@
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-74" value="开发端" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;sketch=0;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="486" y="160" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6y4wKg8LjNw8DWzeBbMR-76" value="互联网用户" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;fontColor=#000000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-76" value="企业PC端" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;fontColor=#000000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="98.5" y="527.5" width="53" height="59" as="geometry" />
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
