@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T07:46:32.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="P_sfCzrbFQ5UjWO1Jo2t" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T07:46:57.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="yp-rxOWKVZF80SHgVgG4" version="20.2.7" type="github">
   <diagram name="兴业矿山20220901" id="wyhFWKAAumZVUPHM1xn9">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="fog7wRuy-gSBpGJfFjiO-36" value="互联网PC端" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;fontColor=#000000;" parent="fog7wRuy-gSBpGJfFjiO-1" vertex="1">
           <mxGeometry x="151" y="394.5" width="53" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="fog7wRuy-gSBpGJfFjiO-37" value="兴业矿山超融合网络拓扑图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#007FFF;fontSize=22;fontStyle=1" parent="fog7wRuy-gSBpGJfFjiO-1" vertex="1">
+        <mxCell id="fog7wRuy-gSBpGJfFjiO-37" value="兴业矿山数据中心网络拓扑图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#007FFF;fontSize=22;fontStyle=1" parent="fog7wRuy-gSBpGJfFjiO-1" vertex="1">
           <mxGeometry x="690.5" y="991" width="384" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fog7wRuy-gSBpGJfFjiO-38" value="汇聚交换机02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;" parent="fog7wRuy-gSBpGJfFjiO-1" vertex="1">
