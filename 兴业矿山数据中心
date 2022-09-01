@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T07:30:37.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="YjEHjweo-ZrMYLkPYvWP" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T07:31:17.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="iNni63iHdmY9CiteyAOn" version="20.2.7" type="github" pages="2">
   <diagram id="gu_1j6TBoto_4-jWIs2o" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -388,7 +388,7 @@
             <mxPoint x="1114.5" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6y4wKg8LjNw8DWzeBbMR-31" value="VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-31" value="虚拟机系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="1285.5" y="922.5" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
@@ -544,7 +544,7 @@
             <mxPoint x="495.78999999999996" y="719.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6y4wKg8LjNw8DWzeBbMR-114" value="大屏监控室" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-114" value="大屏监控中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="490" y="742.25" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-116" value="" style="endArrow=none;html=1;rounded=0;exitX=0.907;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
