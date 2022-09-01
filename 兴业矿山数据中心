@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T07:02:19.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="FzbgdVou_a9NyqR8rUPK" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T07:10:09.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zJV4IX51wncDr7G620RX" version="20.2.7" type="github" pages="2">
   <diagram id="gu_1j6TBoto_4-jWIs2o" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="兴业矿山20220901" id="wyhFWKAAumZVUPHM1xn9">
-    <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="fog7wRuy-gSBpGJfFjiO-0" />
         <mxCell id="fog7wRuy-gSBpGJfFjiO-1" parent="fog7wRuy-gSBpGJfFjiO-0" />
@@ -426,20 +426,20 @@
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1065" y="720.2400000000001" as="sourcePoint" />
-            <mxPoint x="1112" y="720.2400000000001" as="targetPoint" />
+            <mxPoint x="1065" y="725.2400000000001" as="sourcePoint" />
+            <mxPoint x="1112" y="725.2400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1065" y="795.4" as="sourcePoint" />
-            <mxPoint x="1112" y="795.4" as="targetPoint" />
+            <mxPoint x="1065" y="805.4" as="sourcePoint" />
+            <mxPoint x="1112" y="805.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1065" y="870.82" as="sourcePoint" />
-            <mxPoint x="1112" y="870.82" as="targetPoint" />
+            <mxPoint x="1065" y="878.82" as="sourcePoint" />
+            <mxPoint x="1112" y="878.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
@@ -489,6 +489,18 @@
             <mxPoint x="726" y="497" as="targetPoint" />
             <mxPoint x="646" y="496.5" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-88" value="应用服务器-01" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="1116" y="621.25" width="35.71" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-89" value="应用服务器-02" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="1116" y="700" width="35.71" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-90" value="数据库服务器" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="1116" y="780" width="35.71" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-91" value="GIS服务器" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="1116" y="856" width="35.71" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
