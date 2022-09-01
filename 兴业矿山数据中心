@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T07:55:10.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gt8To4c_Tq3gUgfQBEq8" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T07:56:56.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rctd3sVm3JueR89gu2TU" version="20.2.7" type="github">
   <diagram name="兴业矿山20220901" id="wyhFWKAAumZVUPHM1xn9">
-    <mxGraphModel dx="1422" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="fog7wRuy-gSBpGJfFjiO-0" />
         <mxCell id="fog7wRuy-gSBpGJfFjiO-1" parent="fog7wRuy-gSBpGJfFjiO-0" />
@@ -510,6 +510,12 @@
         </mxCell>
         <mxCell id="hs2eBiYJJhVGEPJj0DVx-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;rotation=90;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="800" y="-121" width="120" height="338.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hs2eBiYJJhVGEPJj0DVx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;rotation=90;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="1187.5" y="894" width="120" height="338.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hs2eBiYJJhVGEPJj0DVx-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;rotation=-180;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="2008" y="577" width="120" height="338.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
