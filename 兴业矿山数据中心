@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T07:12:32.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="i91NH_IXYLcyKQfT6j7g" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T07:13:57.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Mioytf2uzqZ7UtpGwFrw" version="20.2.7" type="github" pages="2">
   <diagram id="gu_1j6TBoto_4-jWIs2o" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -162,10 +162,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="兴业矿山20220901" id="wyhFWKAAumZVUPHM1xn9">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="fog7wRuy-gSBpGJfFjiO-0" />
         <mxCell id="fog7wRuy-gSBpGJfFjiO-1" parent="fog7wRuy-gSBpGJfFjiO-0" />
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-95" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry x="730" y="499.5" width="10" height="15.5" as="geometry" />
+        </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-54" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=15;strokeColor=#000000;fillColor=none;rotation=-180;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="110" y="330.75" width="135" height="351.5" as="geometry" />
         </mxCell>
@@ -486,8 +489,8 @@
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="778.5" y="508" as="targetPoint" />
-            <mxPoint x="698.5" y="507.5" as="sourcePoint" />
+            <mxPoint x="778.5" y="504" as="targetPoint" />
+            <mxPoint x="698.5" y="503.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-88" value="应用服务器-01" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
@@ -507,6 +510,12 @@
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-93" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#000000;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="646.5" y="670" width="44" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="778.5" y="511" as="targetPoint" />
+            <mxPoint x="698.5" y="510.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
