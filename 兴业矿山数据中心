@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T06:09:28.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6gsPnQpjZli1s6GuZJWH" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T06:10:04.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="lJK_dh4mooV46BVIjnYZ" version="20.2.7" type="github" pages="2">
   <diagram id="gu_1j6TBoto_4-jWIs2o" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -578,7 +578,7 @@
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-1" value="超融合集群资源系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="1218.5" y="530" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6y4wKg8LjNw8DWzeBbMR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
+        <mxCell id="6y4wKg8LjNw8DWzeBbMR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
           <mxGeometry x="1002" y="600.5" width="380" height="350" as="geometry" />
         </mxCell>
         <mxCell id="6y4wKg8LjNw8DWzeBbMR-3" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mini_as400;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="fog7wRuy-gSBpGJfFjiO-1">
