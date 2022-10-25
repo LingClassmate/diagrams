@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T09:22:22.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rcNIJweS2RBF90vyxgGh" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T09:23:53.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OpuRN1NGe4DzwYv-3mrR" version="20.4.0" type="github">
   <diagram id="7Xajs8CTjhS7gx2EkjXI" name="第 1 页">
     <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -172,6 +172,9 @@
         </mxCell>
         <mxCell id="6PCsLHLdSE1ELnJtA9Uf-96" value="微服务集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="381" y="343" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6PCsLHLdSE1ELnJtA9Uf-97" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;RWGL微服务架构图&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="530" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
