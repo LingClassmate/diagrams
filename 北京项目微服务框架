@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T09:23:53.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OpuRN1NGe4DzwYv-3mrR" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T09:24:36.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="H_CM0OSel44IAwS_EWiy" version="20.4.0" type="github">
   <diagram id="7Xajs8CTjhS7gx2EkjXI" name="第 1 页">
     <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -135,16 +135,10 @@
           <mxGeometry x="361" y="67" width="106" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="6PCsLHLdSE1ELnJtA9Uf-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;sketch=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="181.25" width="84" height="151.25" as="geometry" />
-        </mxCell>
-        <mxCell id="6PCsLHLdSE1ELnJtA9Uf-78" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;sketch=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="181.25" width="84" height="151.25" as="geometry" />
+          <mxGeometry x="264" y="181.25" width="94" height="151.25" as="geometry" />
         </mxCell>
         <mxCell id="6PCsLHLdSE1ELnJtA9Uf-81" value="&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;modules-argo&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="384.5" y="284.5" width="75" height="35.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6PCsLHLdSE1ELnJtA9Uf-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;sketch=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="183.13" width="84" height="151.25" as="geometry" />
         </mxCell>
         <mxCell id="6PCsLHLdSE1ELnJtA9Uf-88" value="&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;modules-system&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="385" y="240.13" width="75" height="35.5" as="geometry" />
@@ -175,6 +169,12 @@
         </mxCell>
         <mxCell id="6PCsLHLdSE1ELnJtA9Uf-97" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;RWGL微服务架构图&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="530" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6PCsLHLdSE1ELnJtA9Uf-98" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;sketch=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="181.25" width="94" height="151.25" as="geometry" />
+        </mxCell>
+        <mxCell id="6PCsLHLdSE1ELnJtA9Uf-99" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;sketch=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="484.5" y="182.25" width="94" height="151.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
