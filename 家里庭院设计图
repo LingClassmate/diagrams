@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T03:54:50.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5_bmyYQssKtzr7TWs56R" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T03:57:11.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5grpzJW904uTWMfGzHYC" version="20.5.1" type="github">
   <diagram id="XEnt1HTmSYVLJ_mFcaGb" name="第 1 页">
     <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -234,6 +234,12 @@
         </mxCell>
         <mxCell id="OZXjnkYhSjqRpFM9sx7k-8" value="种绿化带" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="393" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OZXjnkYhSjqRpFM9sx7k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OZXjnkYhSjqRpFM9sx7k-11" target="w3m03GTNBrhKl5yPQTPh-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OZXjnkYhSjqRpFM9sx7k-11" value="铺石板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="510" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
