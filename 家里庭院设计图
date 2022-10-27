@@ -1,1 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T01:38:57.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="O-PkCT0rJ9ZzWEGcqRuu" type="github"><diagram id="XEnt1HTmSYVLJ_mFcaGb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-27T01:57:06.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dSmVZRuHgCtO3PXfwfbZ" version="20.5.1" type="github">
+  <diagram id="XEnt1HTmSYVLJ_mFcaGb" name="第 1 页">
+    <mxGraphModel dx="1094" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="60" width="477" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-3" value="房子" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-4" value="铁皮房" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="140" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="261" as="sourcePoint" />
+            <mxPoint x="355" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="517.5" y="198" as="sourcePoint" />
+            <mxPoint x="562.5" y="198" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="542.5" y="198" />
+              <mxPoint x="562.5" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-9" value="菜地" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="340" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-11" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629.55" y="420" as="sourcePoint" />
+            <mxPoint x="629.55" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
