@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T11:46:50.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="B8YffyiC4ICgxFqbSXOD" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T11:47:46.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kxWx4qCn3NkeyHsBKDbU" version="20.2.5" type="github">
   <diagram id="XEnt1HTmSYVLJ_mFcaGb" name="第 1 页">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -134,17 +134,8 @@
         <mxCell id="w3m03GTNBrhKl5yPQTPh-39" value="菜地" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="452.29" y="402" width="77" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w3m03GTNBrhKl5yPQTPh-46" value="铺草坪&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-46" value="种草坪&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="337.71000000000004" y="264" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w3m03GTNBrhKl5yPQTPh-48" value="铺草坪" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="288.29" y="302" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w3m03GTNBrhKl5yPQTPh-49" value="铺草坪" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="278.29" y="376" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w3m03GTNBrhKl5yPQTPh-50" value="铺草坪" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="378.29" y="397" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w3m03GTNBrhKl5yPQTPh-52" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="296.29" y="438" width="20" height="11" as="geometry" />
@@ -235,11 +226,11 @@
         <mxCell id="OZXjnkYhSjqRpFM9sx7k-8" value="种绿化带" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="431.29" y="487" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OZXjnkYhSjqRpFM9sx7k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OZXjnkYhSjqRpFM9sx7k-11" target="w3m03GTNBrhKl5yPQTPh-54" edge="1">
+        <mxCell id="OZXjnkYhSjqRpFM9sx7k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OZXjnkYhSjqRpFM9sx7k-11" target="w3m03GTNBrhKl5yPQTPh-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OZXjnkYhSjqRpFM9sx7k-11" value="铺石板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="352.29" y="492" width="60" height="25" as="geometry" />
+          <mxGeometry x="332.45000000000005" y="492" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="OZXjnkYhSjqRpFM9sx7k-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAA4AAABECAYAAACxiwTbAAAAKklEQVRYhe3LoQEAAAgDIPX/n+cPJgN0OknqYC5JFEVRFEVRFEVRFP/GBWHuBIQ1NhkkAAAAAElFTkSuQmCC;rotation=15;" parent="1" vertex="1">
           <mxGeometry x="360.68" y="343.15" width="2.62" height="12.72" as="geometry" />
@@ -258,6 +249,18 @@
         </mxCell>
         <mxCell id="oiwb7eHCFYtXz6zcU7YF-1" value="原有水泥地板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="448.29" y="237" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiwb7eHCFYtXz6zcU7YF-2" value="种草坪&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="262.29" y="304.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiwb7eHCFYtXz6zcU7YF-3" value="种草坪&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="385.29" y="292" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiwb7eHCFYtXz6zcU7YF-4" value="种草坪&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="253.30000000000004" y="369" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiwb7eHCFYtXz6zcU7YF-5" value="种草坪&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="357.68000000000006" y="383.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
