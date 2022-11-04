@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T06:37:22.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-EHQL18cAMX2s3s_lFhk" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T01:55:48.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="n4LcB116B6cVlTVQRPQC" version="20.5.1" type="github">
   <diagram id="XEnt1HTmSYVLJ_mFcaGb" name="第 1 页">
-    <mxGraphModel dx="813" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w3m03GTNBrhKl5yPQTPh-78" value="种草坪&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-78" value="留空" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="191.29" y="462" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w3m03GTNBrhKl5yPQTPh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
@@ -131,7 +131,7 @@
         <mxCell id="w3m03GTNBrhKl5yPQTPh-39" value="百香果棚" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="476.29" y="420" width="100" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="w3m03GTNBrhKl5yPQTPh-46" value="八字地砖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="w3m03GTNBrhKl5yPQTPh-46" value="植草砖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="337.71000000000004" y="264" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w3m03GTNBrhKl5yPQTPh-60" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;rotation=90;" parent="1" vertex="1">
@@ -285,7 +285,7 @@
         <mxCell id="YanPvLFCPr9sH1REXfec-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="YanPvLFCPr9sH1REXfec-1" target="oiwb7eHCFYtXz6zcU7YF-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YanPvLFCPr9sH1REXfec-1" value="八字地砖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="YanPvLFCPr9sH1REXfec-1" value="植草砖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="345.29" y="487" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YanPvLFCPr9sH1REXfec-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="YanPvLFCPr9sH1REXfec-5" edge="1">
@@ -295,6 +295,42 @@
         </mxCell>
         <mxCell id="YanPvLFCPr9sH1REXfec-5" value="石板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="414" y="487" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-1" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="202.28999999999996" y="273" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-2" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="223.28999999999996" y="272.7" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="245.28999999999996" y="273" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-4" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="267.43999999999994" y="273" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-5" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="289.99999999999994" y="272.7" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-6" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="311.28999999999996" y="273" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-8" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="428.28999999999996" y="271.7" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-9" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="449.28999999999996" y="271.4" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-10" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="471.28999999999996" y="271.7" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-11" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="493.43999999999994" y="271.7" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-12" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="516" y="271.4" width="16" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="tzeQp_-IBtHlJ5-nEBSV-13" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=17.710000000000036;" vertex="1" parent="1">
+          <mxGeometry x="537.29" y="271.7" width="16" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
