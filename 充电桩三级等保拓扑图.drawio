@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T02:49:52.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fCRc5-SiDNp8G8zFqhow" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T06:56:13.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A32XAmRo5HuyHZs0ORxD" version="21.3.8" type="github">
   <diagram name="第 1 页" id="9CLzAiqfRPKBdI6wICIr">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-76" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="88" y="220" width="310" height="200" as="geometry" />
+          <mxGeometry x="88" y="220" width="310" height="220" as="geometry" />
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-10" value="出口网关" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="148" y="246" width="50" height="40" as="geometry" />
@@ -100,7 +100,7 @@
             <mxPoint x="682" y="428.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-107" value="" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-107" value="互联网区边界NGFW" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="160.5" y="340" width="25" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-109" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -165,6 +165,9 @@
             <mxPoint x="760.5" y="340" as="sourcePoint" />
             <mxPoint x="826" y="340.41999999999996" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-128" value="网络边界区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="295.5" y="408" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
