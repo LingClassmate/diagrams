@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T08:28:45.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oDfEN-M_rkqgMq1gSfOy" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T08:33:05.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pjFQLtw706rSWrNFwT9i" version="21.3.8" type="github">
   <diagram name="第 1 页" id="9CLzAiqfRPKBdI6wICIr">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,13 +40,13 @@
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-69" value="数据库服务器" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="978" y="546" width="35.71" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-86" value="" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-86" value="运维终端" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="236.96000000000006" y="615" width="51.82" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-92" value="内网办公区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#B30000;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-92" value="运维终端区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#B30000;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="682" width="91" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-93" value="" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-93" value="运维终端" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="338.18000000000006" y="615" width="51.82" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-96" value="业务区边界NGFW" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
