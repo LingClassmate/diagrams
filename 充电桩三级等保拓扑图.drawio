@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T08:47:45.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XylA2jlvLKSLEcGXFgw2" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T08:56:55.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mXLiJXxf62g3GMsfXVQq" version="21.3.8" type="github">
   <diagram name="第 1 页" id="9CLzAiqfRPKBdI6wICIr">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry x="828" y="190" width="250" height="249" as="geometry" />
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-119" value="安全管理区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#B30000;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="978" y="389" width="85" height="30" as="geometry" />
+          <mxGeometry x="978" y="397" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-126" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.01;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -198,6 +198,18 @@
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-154" value="" style="shape=mxgraph.cisco.modems_and_phones.modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="857.86" y="364" width="77" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-155" value="堡垒机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="933.5" y="264" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-156" value="数据库审计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="937.86" y="314.75" width="75.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-157" value="漏洞扫描" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="932.57" y="362.5" width="75.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-158" value="日志审计系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="931.86" y="213" width="98.14" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
