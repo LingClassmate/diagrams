@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T09:06:12.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FQLnZxtKkSQvdniyFa8Y" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T09:11:20.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ab23awN5f1_jY-m9W8dP" version="21.3.8" type="github">
   <diagram name="第 1 页" id="9CLzAiqfRPKBdI6wICIr">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
             <mxPoint x="281.07948999999996" y="531.0195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-150" value="日志审计系统" style="shape=mxgraph.cisco.hubs_and_gateways.vpn_gateway;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-150" value="日志审计" style="shape=mxgraph.cisco.hubs_and_gateways.vpn_gateway;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="778.86" y="206" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-151" value="堡垒机" style="shape=mxgraph.cisco.controllers_and_modules.3174_(desktop)_cluster_controller;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
@@ -204,6 +204,9 @@
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-166" value="接入探针STA" style="shape=mxgraph.cisco.modems_and_phones.modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="891" y="265" width="77" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-167" value="终端安全管理系统EDR" style="shape=mxgraph.cisco.hubs_and_gateways.vpn_gateway;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="894.5" y="328.5" width="70" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
