@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T08:21:42.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K9dn4vkQ7WF21oBMHGfZ" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T08:28:45.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oDfEN-M_rkqgMq1gSfOy" version="21.3.8" type="github">
   <diagram name="第 1 页" id="9CLzAiqfRPKBdI6wICIr">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,11 +10,11 @@
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-76" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="193.5" width="330" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-10" value="出口网关" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-10" value="互联网出口网关" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="211" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-12" value="上网行为管理" style="shape=mxgraph.cisco.misc.acs;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="216.75" y="343.75" width="50" height="34" as="geometry" />
+          <mxGeometry x="210" y="343.75" width="50" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-26" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: Arial, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Internet&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=15;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="311.75" y="70" width="106.5" height="58.5" as="geometry" />
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-128" value="通信网络&lt;br&gt;区域边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#B30000;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="131.75" y="201" width="85" height="30" as="geometry" />
+          <mxGeometry x="131.75" y="205" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YTY8GHkGcG89uvbtQ9Bl-133" value="办公网接入交换机" style="shape=mxgraph.cisco.switches.layer_2_remote_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="280.47" y="514" width="72.03" height="24.5" as="geometry" />
@@ -158,6 +158,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="364.5" y="128.5" as="sourcePoint" />
             <mxPoint x="364.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-142" value="" style="endArrow=none;html=1;rounded=0;entryX=0.697;entryY=0.757;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="262" y="360.25" as="sourcePoint" />
+            <mxPoint x="352.0099999999999" y="360.0400000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YTY8GHkGcG89uvbtQ9Bl-144" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364.5" y="251" as="sourcePoint" />
+            <mxPoint x="365" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
