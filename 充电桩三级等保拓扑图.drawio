@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T01:58:37.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cK13sXDib8-TJD5x3DwR" version="21.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-20T11:21:36.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VdntMuzK_rXy4z-jfZSy" version="21.7.5" type="github" pages="5">
   <diagram name="第 1 页" id="9CLzAiqfRPKBdI6wICIr">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -549,7 +549,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2023年7月19日" id="tZtnri9U-aWpTtPLknuw">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="_bJ3JRXZDRGk1Xq5aW3q-0" />
         <mxCell id="_bJ3JRXZDRGk1Xq5aW3q-1" parent="_bJ3JRXZDRGk1Xq5aW3q-0" />
@@ -737,6 +737,32 @@
             <mxPoint x="706" y="653.23" as="sourcePoint" />
             <mxPoint x="750" y="653.36" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OntjIPb4DTZFR22RcBXk" name="第 5 页">
+    <mxGraphModel dx="1674" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ifj72ylWRMM8vIfKg6dK-1" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ifj72ylWRMM8vIfKg6dK-2" value="Postgre&lt;br&gt;SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="570" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ifj72ylWRMM8vIfKg6dK-3" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="570" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ifj72ylWRMM8vIfKg6dK-4" value="Java应用服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ifj72ylWRMM8vIfKg6dK-5" value="设备网关服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ifj72ylWRMM8vIfKg6dK-6" value="Nginx前端服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
