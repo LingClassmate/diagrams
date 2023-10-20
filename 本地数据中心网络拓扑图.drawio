@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T06:59:03.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.5" etag="zifD9RI6lWBLT8LZ9b-d" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T07:04:42.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zNXnz0xTwkhDOMiPLblX" version="22.0.5" type="github">
   <diagram name="第 1 页" id="2PJHUDErDBUU5xLwKwYC">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-1" value="互联网区边界NGFW" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="471" y="354" width="25" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-2" value="互联网出口网关" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="459" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-3" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: Arial, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Internet&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=15;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="430" y="60" width="106.5" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-18" value="业务区边界NGFW" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="629" y="358.5" width="25" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="397" width="20" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-20" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="773" y="436" width="44" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-21" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="773" y="319" width="44" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-22" value="汇聚交换机01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="745" y="478" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-23" value="汇聚交换机02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="745" y="361" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-24" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="773" y="319" width="44" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#F5B800;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="792" y="436" as="sourcePoint" />
+            <mxPoint x="792" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#F5B800;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="797" y="436" as="sourcePoint" />
+            <mxPoint x="797" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-27" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="492.5" as="sourcePoint" />
+            <mxPoint x="715" y="322.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="339.75" as="sourcePoint" />
+            <mxPoint x="773" y="340.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="456.75" as="sourcePoint" />
+            <mxPoint x="773" y="457.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEu2uH2ci3IF-CIEFRPU-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655" y="392.5" as="sourcePoint" />
+            <mxPoint x="713" y="393" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
