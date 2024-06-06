@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T05:58:52.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="273rrPSm1mGovLGmQ4FE" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T06:04:23.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YhPFGD8ASIxLYsUAICvo" version="24.4.14" type="github">
   <diagram name="第 1 页" id="JDVTVyS_mM1xhRYmOyq-">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="270" y="380" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-13" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Service&lt;/span&gt;&lt;br style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;负载均衡&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="392" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="389" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-14" value="多副本、负载均衡的软件部署方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="235" y="609" width="115" height="30" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="540" y="380" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-32" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Service&lt;/span&gt;&lt;br style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;负载均衡&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="398" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="392" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-33" value="水平动态扩展的软件部署方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="507.5" y="609" width="115" height="30" as="geometry" />
@@ -65,37 +65,55 @@
           <mxGeometry x="567" y="531" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-37" value="Ingress" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="250" width="128" height="80" as="geometry" />
+          <mxGeometry x="384" y="240" width="128" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-38" value="Prometheus监控组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222" y="150" width="128" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-39" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="660" y="290" width="250" height="148" as="geometry" />
+          <mxGeometry x="666" y="231" width="270" height="148" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-40" value="有状态工作负载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="720" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="736" y="181" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-41" value="主容器组" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="760" y="290" width="50" height="48" as="geometry" />
+          <mxGeometry x="776" y="221" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ctL0CWL5VPLT_HYPr2nh-42" target="ctL0CWL5VPLT_HYPr2nh-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-42" value="备容器组" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="760" y="410" width="50" height="48" as="geometry" />
+          <mxGeometry x="776" y="341" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-47" value="主备切换的软件部署方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="798.75" y="550" width="92.5" height="30" as="geometry" />
+          <mxGeometry x="763" y="447" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-50" value="无状态工作负载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="447.5" y="485" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ctL0CWL5VPLT_HYPr2nh-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-53" value="软件主备切换机制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="368" width="60" height="30" as="geometry" />
+          <mxGeometry x="806" y="299" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctL0CWL5VPLT_HYPr2nh-57" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=svc" vertex="1" parent="1">
+          <mxGeometry x="643" y="281" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ctL0CWL5VPLT_HYPr2nh-58" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Service&lt;/span&gt;&lt;br style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;负载均衡&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="329" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctL0CWL5VPLT_HYPr2nh-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ctL0CWL5VPLT_HYPr2nh-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="693" y="310" as="sourcePoint" />
+            <mxPoint x="743" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctL0CWL5VPLT_HYPr2nh-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="ctL0CWL5VPLT_HYPr2nh-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="693" y="310" as="sourcePoint" />
+            <mxPoint x="786" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctL0CWL5VPLT_HYPr2nh-62" value="探针监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="806" y="184" width="60" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
