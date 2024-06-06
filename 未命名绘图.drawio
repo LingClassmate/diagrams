@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T06:58:23.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="W8iLqZCH22yg_iGrjnZe" version="24.4.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-06T06:58:38.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="t5iWTe2jm8xCIRmtnjMO" version="24.4.14" type="github" pages="3">
   <diagram name="第 1 页" id="JDVTVyS_mM1xhRYmOyq-">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -291,7 +291,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2Y59k8IshnCGZcQ1wcPN-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="210" width="1090" height="568" as="geometry" />
+          <mxGeometry x="40" y="120" width="1090" height="658" as="geometry" />
         </mxCell>
         <mxCell id="2Y59k8IshnCGZcQ1wcPN-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="87" y="458" width="230" height="129" as="geometry" />
@@ -387,7 +387,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Y59k8IshnCGZcQ1wcPN-36" value="数据流入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="143" width="590" height="30" as="geometry" />
+          <mxGeometry x="294" y="143" width="596" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Y59k8IshnCGZcQ1wcPN-37" value="Service负载均衡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="92" y="328" width="1000" height="40" as="geometry" />
@@ -468,7 +468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Y59k8IshnCGZcQ1wcPN-52" value="电子云容器平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="54" y="230" width="123" height="30" as="geometry" />
+          <mxGeometry x="60" y="140" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
