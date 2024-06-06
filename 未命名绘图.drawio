@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T06:58:38.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="t5iWTe2jm8xCIRmtnjMO" version="24.4.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-06T07:11:33.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wgJY0wfM-7MkVSxG-6_e" version="24.4.14" type="github" pages="3">
   <diagram name="第 1 页" id="JDVTVyS_mM1xhRYmOyq-">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -365,7 +365,7 @@
         <mxCell id="2Y59k8IshnCGZcQ1wcPN-28" value="探针监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="488" y="473" width="60" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="2Y59k8IshnCGZcQ1wcPN-29" value="Ingress流量控制器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Y59k8IshnCGZcQ1wcPN-29" value="Ingress流量控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="656" y="248" width="266" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Y59k8IshnCGZcQ1wcPN-30" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;rotation=-90;" vertex="1" parent="1">
@@ -389,10 +389,10 @@
         <mxCell id="2Y59k8IshnCGZcQ1wcPN-36" value="数据流入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="143" width="596" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Y59k8IshnCGZcQ1wcPN-37" value="Service负载均衡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Y59k8IshnCGZcQ1wcPN-37" value="Service负载均衡" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="92" y="328" width="1000" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2Y59k8IshnCGZcQ1wcPN-38" value="单点软件监控部署方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2Y59k8IshnCGZcQ1wcPN-38" value="特殊业务软件部署方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="976.5" y="604" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Y59k8IshnCGZcQ1wcPN-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.116;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.529;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2Y59k8IshnCGZcQ1wcPN-37" target="2Y59k8IshnCGZcQ1wcPN-5">
