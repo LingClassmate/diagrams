@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T05:15:18.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5xjROY2Q_QCIwuimrxpX" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T05:25:24.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="VmryERm6zJrNR1C7zCn5" version="24.4.14" type="github">
   <diagram name="第 1 页" id="JDVTVyS_mM1xhRYmOyq-">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ctL0CWL5VPLT_HYPr2nh-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="ctL0CWL5VPLT_HYPr2nh-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="420" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-6" value="工作负载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -23,13 +23,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-10" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=svc" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="50" height="48" as="geometry" />
+          <mxGeometry x="350" y="321" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-13" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Service&lt;/span&gt;&lt;br style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;负载均衡&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="322" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="333" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctL0CWL5VPLT_HYPr2nh-14" value="多副本、负载均衡的软件部署方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="315" y="550" width="120" height="30" as="geometry" />
+          <mxGeometry x="315" y="550" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctL0CWL5VPLT_HYPr2nh-24" value="探针监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="426" width="60" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
