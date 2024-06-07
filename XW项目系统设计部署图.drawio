@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T09:58:00.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IeAen5SbwWGY_BsZqYKy" version="24.4.15" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-07T04:41:06.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UFYv-y4TSGeEsXQebLhn" version="24.4.15" type="github" pages="4">
   <diagram name="第 1 页" id="g1av4ujTaZWIesApmOu5">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -474,7 +474,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eosGfYQqxqHC_lk7dVrV" name="第 4 页">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,7 +600,7 @@
             <mxPoint x="489" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0LpubAClVMf11BvNduk-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.116;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Q0LpubAClVMf11BvNduk-17" edge="1">
+        <mxCell id="Q0LpubAClVMf11BvNduk-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.116;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" parent="1" target="Q0LpubAClVMf11BvNduk-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="788.5" y="302" as="sourcePoint" />
             <mxPoint x="790" y="352" as="targetPoint" />
@@ -664,6 +664,18 @@
         </mxCell>
         <mxCell id="Q0LpubAClVMf11BvNduk-49" value="Ceph分布式共享存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="610" y="640" width="499.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UFfkYVk-fuB8zrAbPW-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.1;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Q0LpubAClVMf11BvNduk-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="352" as="sourcePoint" />
+            <mxPoint x="840" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k0UFfkYVk-fuB8zrAbPW-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.869;entryY=0.205;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="Q0LpubAClVMf11BvNduk-17" target="Q0LpubAClVMf11BvNduk-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="747.5" y="366" as="sourcePoint" />
+            <mxPoint x="802.5" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
