@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T08:29:23.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0xj3AQZlmXCQyJFLjuF4" version="24.7.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.4" pages="10">
   <diagram name="第 1 页" id="g1av4ujTaZWIesApmOu5">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1159,87 +1159,87 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rxomN09c-eVVfCxVn-UG" name="流量复制">
-    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.001;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="25-ZxLbQM5mlmAyTlw2X-6">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.001;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="25-ZxLbQM5mlmAyTlw2X-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="25-ZxLbQM5mlmAyTlw2X-6" target="25-ZxLbQM5mlmAyTlw2X-17">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="25-ZxLbQM5mlmAyTlw2X-6" target="25-ZxLbQM5mlmAyTlw2X-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-31" value="100%流量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="25-ZxLbQM5mlmAyTlw2X-29">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-31" value="100%流量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="25-ZxLbQM5mlmAyTlw2X-29" vertex="1" connectable="0">
           <mxGeometry x="-0.1121" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-6" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-6" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="482" y="176" width="132" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-2" value="Service&lt;br&gt;负载均衡" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=svc" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-2" value="Service&lt;br&gt;负载均衡" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=svc" parent="1" vertex="1">
           <mxGeometry x="523" y="130" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-3" value="Nginx-0" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-3" value="Nginx-0" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="1" vertex="1">
           <mxGeometry x="430" y="260" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-7" value="Nginx-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-7" value="Nginx-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="1" vertex="1">
           <mxGeometry x="520" y="260" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-8" value="Nginx-3" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-8" value="Nginx-2" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="1" vertex="1">
           <mxGeometry x="600" y="260" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-9" value="工作负载-4层流量复制转发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-9" value="工作负载-4层流量复制转发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="497.75" y="341" width="100.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="25-ZxLbQM5mlmAyTlw2X-10">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="25-ZxLbQM5mlmAyTlw2X-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-10" value="流量输入" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-10" value="流量输入" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="25-ZxLbQM5mlmAyTlw2X-14">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="25-ZxLbQM5mlmAyTlw2X-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="394.9047619047618" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="316" y="546" width="158" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-15" value="APP-0" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-15" value="APP-0" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="1" vertex="1">
           <mxGeometry x="370" y="552" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-16" value="工作负载-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-16" value="工作负载-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="344.75" y="626" width="100.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-17" value="Service-0&lt;br&gt;负载均衡" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=svc" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-17" value="Service-0&lt;br&gt;负载均衡" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=svc" parent="1" vertex="1">
           <mxGeometry x="370" y="436" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="25-ZxLbQM5mlmAyTlw2X-25">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="25-ZxLbQM5mlmAyTlw2X-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="698.9047619047618" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="546" width="158" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-26" value="APP-0" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-26" value="APP-0" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="1" vertex="1">
           <mxGeometry x="674" y="552" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-27" value="工作负载-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-27" value="工作负载-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="648.75" y="626" width="100.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-28" value="Service-1&lt;br&gt;负载均衡" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=svc" vertex="1" parent="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-28" value="Service-1&lt;br&gt;负载均衡" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=svc" parent="1" vertex="1">
           <mxGeometry x="674" y="436" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="25-ZxLbQM5mlmAyTlw2X-6" target="25-ZxLbQM5mlmAyTlw2X-28">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="25-ZxLbQM5mlmAyTlw2X-6" target="25-ZxLbQM5mlmAyTlw2X-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-32" value="100%流量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="25-ZxLbQM5mlmAyTlw2X-30">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-32" value="100%流量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="25-ZxLbQM5mlmAyTlw2X-30" vertex="1" connectable="0">
           <mxGeometry x="0.0189" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
