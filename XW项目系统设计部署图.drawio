@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-28T01:19:15.569Z" version="24.7.1" etag="QHmIMa_E53nMGJEMakiv" type="github" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-28T01:21:12.177Z" version="24.7.1" etag="zuIladJDTPfoovgAs9Oo" type="github" pages="10">
   <diagram name="第 1 页" id="g1av4ujTaZWIesApmOu5">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1176,7 +1176,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-6" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-6" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="491" y="138" width="132" height="346" as="geometry" />
         </mxCell>
         <mxCell id="25-ZxLbQM5mlmAyTlw2X-2" value="Service&lt;br&gt;负载均衡" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=svc" parent="1" vertex="1">
@@ -1207,7 +1207,7 @@
             <mxPoint x="394.9047619047618" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="316" y="546" width="158" height="114" as="geometry" />
         </mxCell>
         <mxCell id="25-ZxLbQM5mlmAyTlw2X-15" value="APP-0" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="1" vertex="1">
@@ -1224,7 +1224,7 @@
             <mxPoint x="698.9047619047618" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25-ZxLbQM5mlmAyTlw2X-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="25-ZxLbQM5mlmAyTlw2X-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="620" y="546" width="158" height="114" as="geometry" />
         </mxCell>
         <mxCell id="25-ZxLbQM5mlmAyTlw2X-26" value="APP-0" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="1" vertex="1">
