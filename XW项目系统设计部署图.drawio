@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.7" pages="29">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.7" pages="31">
   <diagram name="第 1 页" id="g1av4ujTaZWIesApmOu5">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2472,6 +2472,76 @@
         </mxCell>
         <mxCell id="625n36U3N-CBKVQBIZKL-8" value="&lt;div&gt;北斗/GLONASS实时钟差解算（容器06）&lt;/div&gt;&lt;div&gt;BGROCS-SSR-06&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="ZfdeTZvofsVzm4yTCpr0-1">
           <mxGeometry x="825" y="590" width="227.5" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="业务调度与监控软件" id="28PTdC3ggsVBLzKGmCmp">
+    <mxGraphModel dx="1434" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-0" />
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-1" parent="FkA7cXF8kPDnen2ZDcMd-0" />
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="FkA7cXF8kPDnen2ZDcMd-1">
+          <mxGeometry x="250" y="-150" width="380" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-3" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="FkA7cXF8kPDnen2ZDcMd-1">
+          <mxGeometry x="304" y="-121.5" width="260" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-4" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="FkA7cXF8kPDnen2ZDcMd-1">
+          <mxGeometry x="325.25" y="-113" width="217.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-5" value="工作负载名称&lt;br&gt;BusSch-Front" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="FkA7cXF8kPDnen2ZDcMd-1">
+          <mxGeometry x="337.75" y="-3" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-6" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="FkA7cXF8kPDnen2ZDcMd-1">
+          <mxGeometry x="345.25" y="-92" width="52.08" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-7" value="&lt;span style=&quot;line-height: 125%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;业务调度与监控软件&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;（软件配置项）&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="FkA7cXF8kPDnen2ZDcMd-1">
+          <mxGeometry x="244.07000000000002" y="110" width="379.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-8" value="时空信息进程管理软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FkA7cXF8kPDnen2ZDcMd-1">
+          <mxGeometry x="365" y="55.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-9" value="容器副本-2" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="FkA7cXF8kPDnen2ZDcMd-1">
+          <mxGeometry x="407.96" y="-92" width="52.08" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FkA7cXF8kPDnen2ZDcMd-10" value="容器副本-3" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="FkA7cXF8kPDnen2ZDcMd-1">
+          <mxGeometry x="475.25" y="-92" width="52.08" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="系统管理软件" id="P0dzPyNSD7v9RI0uDFiL">
+    <mxGraphModel dx="1434" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-0" />
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-1" parent="GQPHz0GRtlaxZIUtsqcH-0" />
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="GQPHz0GRtlaxZIUtsqcH-1">
+          <mxGeometry x="250" y="-150" width="380" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-3" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="GQPHz0GRtlaxZIUtsqcH-1">
+          <mxGeometry x="304" y="-121.5" width="260" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-4" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="GQPHz0GRtlaxZIUtsqcH-1">
+          <mxGeometry x="325.25" y="-113" width="217.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-5" value="工作负载名称&lt;br&gt;SysMan-Front" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="GQPHz0GRtlaxZIUtsqcH-1">
+          <mxGeometry x="337.75" y="-3" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-6" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="GQPHz0GRtlaxZIUtsqcH-1">
+          <mxGeometry x="345.25" y="-92" width="52.08" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-7" value="&lt;span style=&quot;line-height: 125%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;系统管理软件&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;（软件配置项）&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="GQPHz0GRtlaxZIUtsqcH-1">
+          <mxGeometry x="244.07000000000002" y="110" width="379.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-8" value="时空信息进程管理软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GQPHz0GRtlaxZIUtsqcH-1">
+          <mxGeometry x="365" y="55.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-9" value="容器副本-2" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="GQPHz0GRtlaxZIUtsqcH-1">
+          <mxGeometry x="407.96" y="-92" width="52.08" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GQPHz0GRtlaxZIUtsqcH-10" value="容器副本-3" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="GQPHz0GRtlaxZIUtsqcH-1">
+          <mxGeometry x="475.25" y="-92" width="52.08" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
