@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.7" pages="21">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.7" pages="22">
   <diagram name="第 1 页" id="g1av4ujTaZWIesApmOu5">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2075,6 +2075,35 @@
         </mxCell>
         <mxCell id="IfAEqCZyP55JSH4bQk0e-15" value="入轨段轨道预报软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IfAEqCZyP55JSH4bQk0e-1">
           <mxGeometry x="661.37" y="54.5" width="154.75" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="完好性信息处理软件" id="_Q0apBv8QKGO7XFPDR_J">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="98VEApPQBWJyRX2qpvmU-0" />
+        <mxCell id="98VEApPQBWJyRX2qpvmU-1" parent="98VEApPQBWJyRX2qpvmU-0" />
+        <mxCell id="98VEApPQBWJyRX2qpvmU-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="98VEApPQBWJyRX2qpvmU-1">
+          <mxGeometry x="228.75" y="230" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="98VEApPQBWJyRX2qpvmU-7" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="98VEApPQBWJyRX2qpvmU-1">
+          <mxGeometry x="268.75" y="260" width="260" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="98VEApPQBWJyRX2qpvmU-3" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="98VEApPQBWJyRX2qpvmU-1">
+          <mxGeometry x="290" y="277" width="217.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="98VEApPQBWJyRX2qpvmU-4" value="工作负载名称&lt;div&gt;INTP-URA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="98VEApPQBWJyRX2qpvmU-1">
+          <mxGeometry x="310" y="387" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="98VEApPQBWJyRX2qpvmU-5" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=9;" vertex="1" parent="98VEApPQBWJyRX2qpvmU-1">
+          <mxGeometry x="368.02" y="298" width="61.46" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="98VEApPQBWJyRX2qpvmU-6" value="&lt;span style=&quot;font-size: 10.5pt; line-height: 125%; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; line-height: 125%;&quot;&gt;完好性信息处理软件&lt;/span&gt;&lt;br&gt;（软件配置项）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="98VEApPQBWJyRX2qpvmU-1">
+          <mxGeometry x="324.75" y="510" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="98VEApPQBWJyRX2qpvmU-8" value="导航电文完好性信息处理软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="98VEApPQBWJyRX2qpvmU-1">
+          <mxGeometry x="338.75" y="437" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
