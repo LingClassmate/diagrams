@@ -1262,28 +1262,40 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UiOhSvMshdtVFnM0pSpJ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="600" height="300" as="geometry" />
+          <mxGeometry x="250" y="230" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="UiOhSvMshdtVFnM0pSpJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="290" width="240" height="170" as="geometry" />
+          <mxGeometry x="290" y="277" width="217.5" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="UiOhSvMshdtVFnM0pSpJ-3" value="数据接收与转发软件&lt;br&gt;工作负载名称（DRcD-DRcSd）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="296.25" y="423" width="192.5" height="30" as="geometry" />
+        <mxCell id="UiOhSvMshdtVFnM0pSpJ-3" value="工作负载名称（DRcD-DRcSd）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="310" y="387" width="192.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UiOhSvMshdtVFnM0pSpJ-4" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="355.52" y="311" width="73.96" height="71" as="geometry" />
+          <mxGeometry x="368.02" y="298" width="61.46" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UiOhSvMshdtVFnM0pSpJ-17" value="&lt;span style=&quot;font-size: 10.5pt; line-height: 125%; font-family: 宋体;&quot;&gt;数据接收与分发软件&lt;br&gt;（软件配置项）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="481" y="500" width="148" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UiOhSvMshdtVFnM0pSpJ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="290" width="240" height="170" as="geometry" />
+        <mxCell id="UiOhSvMshdtVFnM0pSpJ-21" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="260" height="207" as="geometry" />
         </mxCell>
-        <mxCell id="UiOhSvMshdtVFnM0pSpJ-19" value="&lt;div&gt;NTRIP数据协议转换和推送软件&lt;/div&gt;&lt;div&gt;工作负载名称（DRcD-NTRIP）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="616.25" y="423" width="177.5" height="30" as="geometry" />
+        <mxCell id="UiOhSvMshdtVFnM0pSpJ-22" value="数据接收与转发软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338.75" y="437" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UiOhSvMshdtVFnM0pSpJ-20" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="668.02" y="311" width="73.96" height="71" as="geometry" />
+        <mxCell id="UiOhSvMshdtVFnM0pSpJ-23" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="277" width="217.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UiOhSvMshdtVFnM0pSpJ-24" value="工作负载名称（DRcD-DRcSd）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="610" y="387" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UiOhSvMshdtVFnM0pSpJ-25" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="668.02" y="298" width="61.46" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="UiOhSvMshdtVFnM0pSpJ-26" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="260" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="UiOhSvMshdtVFnM0pSpJ-27" value="数据接收与转发软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="638.75" y="437" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
