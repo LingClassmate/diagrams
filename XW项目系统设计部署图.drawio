@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.7" pages="18">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.7" pages="19">
   <diagram name="第 1 页" id="g1av4ujTaZWIesApmOu5">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1884,7 +1884,7 @@
         <mxCell id="8LwPWDTcZF41rMESMu0d-6" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
           <mxGeometry x="169.25" y="427" width="217.5" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8LwPWDTcZF41rMESMu0d-7" value="工作负载名称&lt;br&gt;INOGPOC-LOTD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
+        <mxCell id="8LwPWDTcZF41rMESMu0d-7" value="工作负载名称&lt;br&gt;NPOGMOC-CKCGP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
           <mxGeometry x="181.75" y="537" width="192.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8LwPWDTcZF41rMESMu0d-8" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
@@ -1893,7 +1893,7 @@
         <mxCell id="8LwPWDTcZF41rMESMu0d-9" value="&lt;span style=&quot;font-size: 10.5pt; line-height: 125%; font-family: 宋体;&quot;&gt;近极轨基于GNSS位置信息的卫星轨道解算软件&lt;br&gt;（软件配置项）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
           <mxGeometry x="250" y="680" width="379.87" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8LwPWDTcZF41rMESMu0d-10" value="低轨卫星独立定轨定时处理软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
+        <mxCell id="8LwPWDTcZF41rMESMu0d-10" value="GNSSLEO卫星定轨预报软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
           <mxGeometry x="218" y="592.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8LwPWDTcZF41rMESMu0d-11" value="容器副本-2" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
@@ -1905,13 +1905,13 @@
         <mxCell id="8LwPWDTcZF41rMESMu0d-13" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
           <mxGeometry x="495.5" y="427" width="217.5" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8LwPWDTcZF41rMESMu0d-14" value="工作负载名称&lt;br&gt;INOGPOC-IPOD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
+        <mxCell id="8LwPWDTcZF41rMESMu0d-14" value="工作负载名称&lt;br&gt;NPOGMOC-CKCWP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
           <mxGeometry x="508" y="537" width="192.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8LwPWDTcZF41rMESMu0d-15" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
           <mxGeometry x="515.5" y="448" width="52.08" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8LwPWDTcZF41rMESMu0d-16" value="高低轨卫星联合定轨软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
+        <mxCell id="8LwPWDTcZF41rMESMu0d-16" value="LEO卫星定轨及预报软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
           <mxGeometry x="544.25" y="592.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8LwPWDTcZF41rMESMu0d-17" value="容器副本-2" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
@@ -1919,6 +1919,56 @@
         </mxCell>
         <mxCell id="8LwPWDTcZF41rMESMu0d-18" value="容器副本-3" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="8LwPWDTcZF41rMESMu0d-1">
           <mxGeometry x="645.5" y="448" width="52.08" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="近极轨基于星地星间的卫星轨道解算软件" id="OIVgLbhH9UN8WCxLU7XN">
+    <mxGraphModel dx="1434" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-0" />
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-1" parent="xzhBmct9MFZGqE2IGT4d-0" />
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="250" y="-180" width="670" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-3" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="610" y="-121.5" width="264.75" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-4" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="304" y="-121.5" width="260" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-5" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="325.25" y="-113" width="217.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-6" value="工作负载名称&lt;br&gt;EvaPOC-EVAC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="337.75" y="-3" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-7" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="345.25" y="-92" width="52.08" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-8" value="&lt;span style=&quot;line-height: 125%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;近极轨基于星地星间的卫星轨道解算软件&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;（软件配置项）&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="390.55" y="140" width="379.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-9" value="卫星钟差参数精度评估软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="374" y="52.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-10" value="容器副本-2" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="407.96" y="-92" width="52.08" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-11" value="容器副本-3" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="475.25" y="-92" width="52.08" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-12" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="643.75" y="-101" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-13" value="工作负载名称&lt;br&gt;EvaPOC-EPOD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="648.13" y="9" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-14" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=10;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="718.34" y="-80" width="52.08" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhBmct9MFZGqE2IGT4d-15" value="北斗/GNSS/低轨轨道产品精度评估软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzhBmct9MFZGqE2IGT4d-1">
+          <mxGeometry x="661.37" y="54.5" width="154.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
