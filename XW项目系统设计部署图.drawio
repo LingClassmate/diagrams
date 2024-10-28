@@ -1300,6 +1300,35 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="数据发送软件" id="1pDpwJhHvxJRaniciHu5">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="BQRov2wbgLoB2eI2ybDL-0" />
+        <mxCell id="BQRov2wbgLoB2eI2ybDL-1" parent="BQRov2wbgLoB2eI2ybDL-0" />
+        <mxCell id="BQRov2wbgLoB2eI2ybDL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
+          <mxGeometry x="236.25" y="230" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BQRov2wbgLoB2eI2ybDL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
+          <mxGeometry x="290" y="277" width="217.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BQRov2wbgLoB2eI2ybDL-4" value="工作负载名称（DSd-DRcSd）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
+          <mxGeometry x="310" y="387" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQRov2wbgLoB2eI2ybDL-5" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=9;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
+          <mxGeometry x="368.02" y="298" width="61.46" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="BQRov2wbgLoB2eI2ybDL-6" value="&lt;span style=&quot;font-size: 10.5pt; line-height: 125%; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; line-height: 125%;&quot;&gt;数据发送软件&lt;/span&gt;&lt;br&gt;（软件配置项）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
+          <mxGeometry x="324.75" y="510" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQRov2wbgLoB2eI2ybDL-7" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
+          <mxGeometry x="268.75" y="260" width="260" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="BQRov2wbgLoB2eI2ybDL-8" value="数据接收与转发软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
+          <mxGeometry x="338.75" y="437" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="近极轨基于星地星间的卫星精密轨道与钟差确定软件" id="--0RVzm7nZ2oGXB08Fx9">
     <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1427,35 +1456,6 @@
         </mxCell>
         <mxCell id="Al8w0X3DRsAPJaxMgBXq-0" value="主备切换机制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Z6uRRBzNyPhB0YjEECRh-1">
           <mxGeometry x="702.63" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="数据接收与分发软件 的副本" id="1pDpwJhHvxJRaniciHu5">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="BQRov2wbgLoB2eI2ybDL-0" />
-        <mxCell id="BQRov2wbgLoB2eI2ybDL-1" parent="BQRov2wbgLoB2eI2ybDL-0" />
-        <mxCell id="BQRov2wbgLoB2eI2ybDL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
-          <mxGeometry x="236.25" y="230" width="340" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="BQRov2wbgLoB2eI2ybDL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
-          <mxGeometry x="290" y="277" width="217.5" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="BQRov2wbgLoB2eI2ybDL-4" value="工作负载名称（DSd-DRcSd）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
-          <mxGeometry x="310" y="387" width="192.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BQRov2wbgLoB2eI2ybDL-5" value="容器副本-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;fontSize=9;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
-          <mxGeometry x="368.02" y="298" width="61.46" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="BQRov2wbgLoB2eI2ybDL-6" value="&lt;span style=&quot;font-size: 10.5pt; line-height: 125%; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; line-height: 125%;&quot;&gt;数据发送软件&lt;/span&gt;&lt;br&gt;（软件配置项）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
-          <mxGeometry x="324.75" y="510" width="148" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BQRov2wbgLoB2eI2ybDL-7" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
-          <mxGeometry x="268.75" y="260" width="260" height="207" as="geometry" />
-        </mxCell>
-        <mxCell id="BQRov2wbgLoB2eI2ybDL-8" value="数据接收与转发软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BQRov2wbgLoB2eI2ybDL-1">
-          <mxGeometry x="338.75" y="437" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
