@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="24">
   <diagram id="3S1Ai9-wjpg00jcp9o5-" name="数据接收与分发软件">
-    <mxGraphModel dx="1615" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-248" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="164.75" y="1360" width="770" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="yEhbQgY-T_ewudgxMeIW-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEhbQgY-T_ewudgxMeIW-89" target="yEhbQgY-T_ewudgxMeIW-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -240,6 +243,159 @@
         </mxCell>
         <mxCell id="yEhbQgY-T_ewudgxMeIW-153" value="a.out应用程序&lt;br&gt;工作负载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1200.5" y="646" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-154" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170.5" y="880" width="770" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-155" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="250.5" y="900" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-156" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="909" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-157" value="app:drcd-drcsd-rtt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="920" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-158" value="&lt;div&gt;工作负载&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;drcd-drcsd-rtt01&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244.25" y="1001" width="180.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-159" value="Pod（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="286.5" y="955" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-160" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="900" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-161" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="909" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-162" value="app:drcd-drcsd-rtt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="497" y="920" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-163" value="&lt;div&gt;工作负载&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;drcd-drcsd-rtt02&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="461.25" y="1001" width="180.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-164" value="Pod（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="955" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-165" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="676.75" y="900" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-166" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700.75" y="909" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-167" value="app:drcd-drcsd-rtt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="706.25" y="920" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-168" value="&lt;div&gt;工作负载&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;drcd-drcsd-rtt03&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670.5" y="1001" width="180.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-169" value="Pod（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="712.75" y="955" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-170" value="遥测实时&lt;br&gt;工作负载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="523.5" y="1053" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-171" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="1125" width="770" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-172" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="246.5" y="1145" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-173" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270.5" y="1154" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-174" value="app:drcd-drcsd-td" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="276" y="1165" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-175" value="&lt;div&gt;工作负载&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;drcd-drcsd-td01&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240.25" y="1246" width="180.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-176" value="Pod（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="1200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-177" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="1145" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-178" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="1154" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-179" value="app:drcd-drcsd-td" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="493" y="1165" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-180" value="&lt;div&gt;工作负载&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;drcd-drcsd-td02&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="457.25" y="1246" width="180.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-181" value="Pod（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="499.5" y="1200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-182" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="672.75" y="1145" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-183" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="696.75" y="1154" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-184" value="app:drcd-drcsd-td" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="702.25" y="1165" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-185" value="&lt;div&gt;工作负载&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;drcd-drcsd-td03&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="666.5" y="1246" width="180.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-186" value="Pod（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="708.75" y="1200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-187" value="遥测时延&lt;br&gt;工作负载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="519.5" y="1298" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-212" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="197.25" y="1379" width="319.75" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-213" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="235.75" y="1405" width="107.25" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-214" value="app:drcd-drcsd-fw" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="239.75" y="1415" width="100.25" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-215" value="&lt;div&gt;工作负载&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;drcd-drcsd-fw-1to10&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="1499" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-216" value="Pod-0&lt;br&gt;（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="257.13" y="1444" width="65.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-235" value="File Writer数据分组&lt;br&gt;工作负载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="475.25" y="1550" width="118.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-236" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="1405" width="107.25" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-237" value="app:drcd-drcsd-fw" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="366.5" y="1415" width="100.25" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-238" value="Pod-1&lt;br&gt;（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383.88" y="1444" width="65.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-239" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="561.25" y="1379" width="319.75" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-240" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="599.75" y="1405" width="107.25" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-241" value="app:drcd-drcsd-fw" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="603.75" y="1415" width="100.25" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-242" value="&lt;div&gt;工作负载&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;drcd-drcsd-fw-11to20&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="1499" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-243" value="Pod-0&lt;br&gt;（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="621.13" y="1444" width="65.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-244" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="726.5" y="1405" width="107.25" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-245" value="app:drcd-drcsd-fw" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="730.5" y="1415" width="100.25" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="yEhbQgY-T_ewudgxMeIW-246" value="Pod-1&lt;br&gt;（容器组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="747.88" y="1444" width="65.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
